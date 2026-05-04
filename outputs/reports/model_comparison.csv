@@ -1,0 +1,11 @@
+task,model,cv_r2_mean,cv_r2_std,cv_rmse_mean,cv_rmse_std,primary_metric,secondary_metric,cv_accuracy_mean,cv_accuracy_std
+avg_hardness regression,RF,0.5327,0.0133,1.0612,0.0284,0.5766,1.0414,,
+avg_hardness regression,XGBoost,0.5135,0.0097,1.0826,0.018,0.5584,1.0636,,
+avg_density regression,RF,0.8668,0.0332,0.6736,0.096,0.8628,0.6402,,
+avg_density regression,XGBoost,0.8532,0.0452,0.7036,0.1156,0.8512,0.6665,,
+transparency (3-class),RF,,,,,0.6661,0.6042,0.6732,0.0086
+transparency (3-class),XGBoost,,,,,0.6421,0.6226,0.6514,0.0239
+crystal_system,RF,,,,,0.4617,0.4227,0.4576,0.0173
+crystal_system,XGBoost,,,,,0.5122,0.4947,0.4629,0.0146
+industry,RF,,,,,0.6625,0.6442,0.6586,0.0247
+industry,XGBoost,,,,,0.7066,0.7,0.7072,0.0156

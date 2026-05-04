@@ -1,0 +1,7 @@
+task,model,cv_accuracy_mean,cv_accuracy_std,test_accuracy,test_f1_weighted
+transparency (3-class),RF,0.6732,0.0086,0.6661,0.6042
+transparency (3-class),XGBoost,0.6514,0.0239,0.6421,0.6226
+crystal_system,RF,0.4576,0.0173,0.4617,0.4227
+crystal_system,XGBoost,0.4629,0.0146,0.5122,0.4947
+industry,RF,0.6586,0.0247,0.6625,0.6442
+industry,XGBoost,0.7072,0.0156,0.7066,0.7

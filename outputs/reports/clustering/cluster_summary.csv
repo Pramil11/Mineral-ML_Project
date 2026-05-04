@@ -1,0 +1,4 @@
+cluster_kmeans,count,avg_hardness,avg_density,top_crystal,top_industry
+0,359,3.28,6.81,Cubic,Electronics
+1,26,3.59,2.28,Monoclinic,Construction
+2,2783,3.97,3.41,Monoclinic,Construction
