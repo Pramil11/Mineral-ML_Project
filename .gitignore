@@ -1,0 +1,15 @@
+# Model files (too large for GitHub)
+outputs/models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Parquet (can be regenerated)
+outputs/reports/*.parquet
