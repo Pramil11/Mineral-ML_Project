@@ -1,5 +1,4 @@
-# Model files (too large for GitHub)
-outputs/models/*.pkl
+# Model files (tracked via Git LFS)
 
 # Python
 __pycache__/
